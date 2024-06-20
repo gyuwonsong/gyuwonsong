@@ -39,7 +39,7 @@
 | 2023.07 ~ 2023.09　|공연예술 분야 통합 정보 제공 안드로이드 앱 서비스 '<a href="https://github.com/gyuwonsong/ArtRoad.git">ArtRoad</a>' 팀장 및 Frontend 개발|
 | 2023.08 ~ 2023.11　|2023년도 '<a href="https://github.com/gyuwonsong/KMU-HighSchoolSupportProject.git">고교교육 기여대학 지원사업</a>' 팀장|
 | 2023.10 ~ 2023.12　|산악 안전 안드로이드 앱 서비스 '<a href="https://github.com/gyuwonsong/Mount-ack.git">Mount-ack</a>' Frontend 개발|
-| 2024.03 ~　|2024년도 1학기 알파프로젝트 자립준비청년 지원 웹 서비스 '<a href="https://github.com/cooing-kmu/cooing-frontend">Cooing</a>' 팀장 및 Frontend 개발|
+| 2024.03 ~ 2024.06 |2024년도 1학기 알파프로젝트 자립준비청년 지원 웹 서비스 '<a href="https://github.com/cooing-kmu">Cooing</a>' 팀장 및 Frontend 개발|
 
 </div>
 
