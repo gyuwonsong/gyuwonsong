@@ -1,12 +1,12 @@
 <div align='center'>
 
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=0:a82da8,100:da8f00&height=230&section=header&text=GyuwonSong&fontAlign=70&fontAlignY=40&fontSize=50&fontColor=ffffff)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=0:f0e68c,100:808000&height=230&section=header&text=GyuwonSong&fontAlign=70&fontAlignY=40&fontSize=50&fontColor=ffffff)
 
 </div>
 
 <h3 align='center'>
-  <em> Hi, I'm Gyuwon </em> 🙌
-  </h3>
+  Hi, I am a frontend developer!💡
+</h3>
 
 <br/>
 
@@ -23,7 +23,7 @@
 |두음 (Do,um)|2023.03 ~ 2023.12|국민대학교 소프트웨어융합대학 SW 교육봉사 동아리 총무부 부장|
 |코박코박 (CobakCobak)|2023.05 ~ 2023.06|2023년도 상반기 코드클럽 찾아가는 SW 교육기부단 팀장|
 |커넥트 (CONNECT)|2023.12 ~|국민대학교 소프트웨어융합대학 제8대 학생회 홍보부 부장|
-|콘캣 (CONCAT)|2024.06 ~|국민대학교 2024학년도 하계 현장실습 Frontend 인턴 개발자|
+|콘캣(주)|2024.06 ~|국민대학교 2024학년도 하계 현장실습 Frontend 인턴 개발자|
 
 </div>
 
