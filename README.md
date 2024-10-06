@@ -42,6 +42,7 @@
 | 2023.10 ~ 2023.12　|산악 안전 안드로이드 앱 서비스 '<a href="https://github.com/gyuwonsong/Mount-ack.git">Mount-ack</a>' Frontend 개발|
 | 2024.03 ~ 2024.06 |자립준비청년 지원 웹 서비스 '<a href="https://github.com/cooing-kmu">Cooing</a>' 팀장 및 Frontend 개발|
 | 2024.05 |복수 사용자 메신저 프로그램 '<a href="https://github.com/gyuwonsong/KMU-NetworkDesignProject">NetworkDesignProject</a>'|
+| 2024.09 ~ |국민대학교 북악리그 전용 웹사이트 '<a href="https://github.com/s-bukak">승부각</a>' 팀장 및 Frontend 개발|
 
 </div>
 
@@ -71,6 +72,11 @@
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/>
   <img src="https://img.shields.io/badge/WebStorm-000000?style=flat-square&logo=WebStorm&logoColor=white"/>
+</div>
+<div align='center'>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&logo=Tailwind CSS&logoColor=white"/>
 </div>
 
 <br/>
