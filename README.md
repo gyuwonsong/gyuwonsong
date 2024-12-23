@@ -22,7 +22,7 @@
 |라오로다 (Laoroda)|2022.11 ~ 2023.02|2022년도 국민대학교 라오스 해외봉사단 미술교육팀 팀장 & 벽화팀 팀장|
 |두음 (Do,um)|2023.03 ~ 2023.12|국민대학교 소프트웨어융합대학 SW 교육봉사 동아리 총무부 부장|
 |코박코박|2023.05 ~ 2023.06|2023년도 상반기 코드클럽 찾아가는 SW 교육기부단 팀장|
-|커넥트 (CONNECT)|2023.12 ~|국민대학교 소프트웨어융합대학 제8대 학생회 홍보부 부장|
+|커넥트 (CONNECT)|2023.12 ~ 2024.11|국민대학교 소프트웨어융합대학 제8대 학생회 홍보부 부장|
 |콘캣(주)|2024.06 ~ 08 |국민대학교 2024학년도 하계 현장실습 Frontend 인턴 개발자|
 
 </div>
@@ -42,7 +42,7 @@
 | 2023.10 ~ 2023.12　|산악 안전 안드로이드 앱 서비스 '<a href="https://github.com/gyuwonsong/Mount-ack.git">Mount-ack</a>' Frontend 개발|
 | 2024.03 ~ 2024.06 |자립준비청년 지원 웹 서비스 '<a href="https://github.com/cooing-kmu">Cooing</a>' 팀장 및 Frontend 개발|
 | 2024.05 |복수 사용자 메신저 프로그램 '<a href="https://github.com/gyuwonsong/KMU-NetworkDesignProject">NetworkDesignProject</a>'|
-| 2024.09 ~ |국민대학교 북악리그 전용 웹사이트 '<a href="https://github.com/s-bukak">승부각</a>' 팀장 및 Frontend 개발|
+| 2024.09 ~ 2024.12|국민대학교 북악리그 전용 웹사이트 '<a href="https://github.com/s-bukak">승부각</a>' 팀장 및 Frontend 개발|
 
 </div>
 
