@@ -90,9 +90,3 @@
 </div>
 
 <br/>
-
-<div align='center'>
-  
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gyuwon0722)](https://solved.ac/gyuwon0722/) 
-
-</div>
