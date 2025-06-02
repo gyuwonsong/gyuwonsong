@@ -39,6 +39,8 @@
 - 자립준비청년 지원 웹 서비스 '<a href="https://github.com/cooing-kmu">Cooing</a>' 팀장 및 Frontend 개발 (2024.03 - 2024.06)
 - 복수 사용자 메신저 프로그램 '<a href="https://github.com/gyuwonsong/KMU-NetworkDesignProject">NetworkDesignProject</a>' (2024.05)
 - 국민대학교 북악리그 전용 웹사이트 '<a href="https://github.com/s-bukak">승부각</a>' 팀장 및 Frontend 개발 (2024.09 - 2024.12)
+- Human-in-the-loop 기반의 노코드 병리 AI 서비스 '<a href="https://github.com/gyuwonsong/KMU-PathOs.git
+">PathOs</a>' 팀장 및 Frontend 개발 (2025.01 - 2025.05)
 
 </div>
 
@@ -49,6 +51,7 @@
 - 2023 코드클럽 SW 교육기부단 우수 동아리 선정 과학기술정보통신부 장관상
 - 2023 제3회 KOPIS 빅데이터 공모전 서비스개발 부문 돋움상 (3등)
 - 2023 K-PaaS 공모전 서비스개발 부문 특별상 (네이버 클라우드상)
+- 2025 KMUCS EXPO 캡스톤디자인프로젝트 AI 부문상 (장려상)
 
 <br/>
 
