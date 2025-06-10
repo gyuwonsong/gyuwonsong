@@ -79,6 +79,14 @@
 <a href="https://github.com/gyuwonsong/"><img alt="RED" src ="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
 <a href="https://velog.io/@july22/"><img alt="RED" src ="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/></a>
 <a [href="mailto:gyuwon0722@kookmin.ac.kr](mailto:href=%22mailto:gyuwon0722@kookmin.ac.kr)"><img src="https://img.shields.io/badge/Gmail-E34F26?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gyuwon0722@kookmin.ac.kr"/></a>
-</div>
 
+<br/>
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=gyuwonsong&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/gyuwonsong"
+  width="400"
+  height="200"
+/>
+</a>
+</div>
 <br/>
