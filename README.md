@@ -39,8 +39,8 @@
 - 자립준비청년 지원 웹 서비스 '<a href="https://github.com/cooing-kmu">Cooing</a>' 팀장 및 Frontend 개발 (2024.03 - 2024.06)
 - 국민대학교 북악리그 전용 웹사이트 '<a href="https://github.com/s-bukak">승부각</a>' 팀장 및 Frontend 개발 (2024.09 - 2024.12)
 - Human-in-the-loop 기반의 노코드 병리 AI 서비스 '<a href="https://github.com/gyuwonsong/KMU-PathOs.git">PathOs</a>' 팀장 및 Frontend 개발 (2025.01 - 2025.05)
-- SNUH BMI-LAB 내부 업무 시스템 '<a href="https://github.com/SNUH-BMI-LAB-Web-Project/snuh-bmilab-web-client">BMI-LAB Web</a>' 팀장 및 Frontend 개발 (2025.02 - 2025.08)
-- SNUH BMI-LAB Server '<a href="https://github.com/gyuwonsong/BMI-LAB-Server-Frontend">BMI-LAB Server</a>' Frontend 개발 (2025.08 - 2025.09)
+- SNUH BMI-LAB 내부 업무 관리 시스템 '<a href="https://github.com/SNUH-BMI-LAB-Web-Project/snuh-bmilab-web-client">BMI-LAB Web</a>' 팀장 및 Frontend 개발 (2025.02 - 2025.08)
+- SNUH BMI-LAB 서버 관리 웹 서비스 '<a href="https://github.com/gyuwonsong/BMI-LAB-Server-Frontend">BMI-LAB Server</a>' Frontend 개발 (2025.08 - 2025.09)
 - 희귀질환 환자·보호자 기록에서 정신 상태와 SDoH를 LLM으로 자동 분석하는 서비스 '돌봄일지' Frontend 개발 (2025.09 - )
 
 </div>
