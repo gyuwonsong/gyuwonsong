@@ -31,7 +31,6 @@
 
 <div align='left'>
 
-- MBTI 기반 영화 추천 안드로이드 앱 서비스 '<a href="https://github.com/gyuwonsong/KMU-MVTI.git">MVTI</a>' 팀장 및 Backend 개발 (2022.09 - 2022.12)
 - 2023년도 상반기 코드클럽 찾아가는 SW 교육기부단 '<a href="https://github.com/gyuwonsong/CodeClub-CobakCobak.git">코박코박</a>' 팀장 (2023.05 - 2023.06)
 - 공연예술 분야 통합 정보 제공 안드로이드 앱 서비스 '<a href="https://github.com/gyuwonsong/ArtRoad.git">ArtRoad</a>' 팀장 및 Frontend 개발 (2023.07 - 2023.09)
 - 2023년도 '<a href="https://github.com/gyuwonsong/KMU-HighSchoolSupportProject.git">고교교육 기여대학 지원사업</a>' 팀장 (2023.08 - 2023.11)
@@ -41,7 +40,8 @@
 - Human-in-the-loop 기반의 노코드 병리 AI 서비스 '<a href="https://github.com/gyuwonsong/KMU-PathOs.git">PathOs</a>' 팀장 및 Frontend 개발 (2025.01 - 2025.05)
 - SNUH BMI-LAB 내부 업무 관리 시스템 '<a href="https://github.com/SNUH-BMI-LAB-Web-Project/snuh-bmilab-web-client">BMI-LAB Web</a>' 팀장 및 Frontend 개발 (2025.02 - 2025.08)
 - SNUH BMI-LAB 서버 관리 웹 서비스 '<a href="https://github.com/gyuwonsong/BMI-LAB-Server-Frontend">BMI-LAB Server</a>' Frontend 개발 (2025.08 - 2025.09)
-- 희귀질환 환자·보호자 기록에서 정신 상태와 SDoH를 LLM으로 자동 분석하는 서비스 '돌봄일지' Frontend 개발 (2025.09 - )
+- 핵심 금융 법령과 규정을 쉽고 간단하게 알려주는 금융 법률 챗봇 애플리케이션 '<a href="https://github.com/gyuwonsong/KMU-LawChat-Frontend">Law Chat</a>' Frontend 개발 (2025.09 - 2025.11)
+- 희귀질환 환자·보호자 기록에서 정신 상태와 SDoH를 LLM으로 자동 추출·분석하는 웹 서비스 '<a href="https://github.com/gyuwonsong/BMI-LAB-Care-Diary-Frontend">돌봄일기</a>' Frontend 개발 (2025.09 - 2025.12)
 
 </div>
 
@@ -69,7 +69,6 @@
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&logo=Tailwind CSS&logoColor=white"/>
 </div>
 
 <br/>
